@@ -1,4 +1,4 @@
-# sweetz
+# $weetz
 A game in which you earn big bucks selling tasty $weetz.
 
 ## Screenshots

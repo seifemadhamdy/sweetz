@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Rounded25PercentShapeAppearanceOverlay">
+        <item name="cornerSize">25%</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">$weetz</string>
+    <string name="desserts_sold">Desserts Sold</string>
+    <string name="share_text">I\'ve sold %1$d desserts for a total of %2$d$\n#$weetz</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+    <string name="dessert">Dessert</string>
+    <string name="share">Share</string>
+</resources>
